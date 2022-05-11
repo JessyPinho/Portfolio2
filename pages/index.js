@@ -23,8 +23,8 @@ export default function Home({ githubProfileData }) {
 					title: "Jessy Pinho",
 					description:
 						"A passionate Full Stack Web Developer.",
-					image: "https://avatars3.githubusercontent.com/u/59178380?v=4",
-					url: "https://developer-portfolio-1hanzla100.vercel.app",
+					image: "https://avatars.githubusercontent.com/u/103431178?v=4",
+					url: "https://portfolio2-fawn.vercel.app/",
 					keywords: [
 						"Pinho",
 						"Pinho Jessy",
