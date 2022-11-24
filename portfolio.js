@@ -4,7 +4,7 @@ export const greetings = {
 	name: "Jessy Pinho",
 	title: "Hi all, I'm Jessy",
 	description:
-		"I'm a passionate Full Stack web developer having an experience of web applications with PHP, HTML/CSS, Javascript, APIs with Laravel and mobile applications with React Native",
+		"I'm a passionate Full Stack web developer having an experience of web applications with React, PHP, HTML/CSS, Javascript, APIs with Laravel and mobile applications with React Native and Flutter",
 	resumeLink:
 		"https://drive.google.com/file/d/1bcXqGkZwGNIjSvanw-EostWpzXO4oSh9/view?usp=sharing",
 };
@@ -17,7 +17,7 @@ export const contact = {};
 
 export const socialLinks = {
 	github: "https://github.com/JessyPinho",
-	linkedin: "https://www.linkedin.com/in/jessy-pinho",
+	linkedin: "https://www.linkedin.com/in/jessypinho/",
 };
 
 export const skillsSection = {
@@ -30,9 +30,9 @@ export const skillsSection = {
 			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
 			skills: [
 				emoji(
-					"⚡ Building responsive mobile applications in React Native"
+					"⚡ Building responsive mobile applications in React Native or Flutter"
 				),
-				emoji("⚡ Building responsive static websites using HTML/CSS and Javascript"),
+				emoji("⚡ Building responsive static websites using HTML/CSS and Javascript with React"),
 				emoji(
 					"⚡ Building RESTful APIs in the framework Laravel"
 				),
@@ -67,6 +67,34 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-blade"
 				},
 				{
+					skillName: "C",
+					fontAwesomeClassname: "logos:c"
+				},
+				{
+					skillName: "C Sharp",
+					fontAwesomeClassname: "logos:c-sharp"
+				},
+				{
+					skillName: "DotNet",
+					fontAwesomeClassname: "logos:dotnet"
+				},
+				{
+					skillName: "Flutter",
+					fontAwesomeClassname: "logos:flutter"
+				},
+				{
+					skillName: "MySQL",
+					fontAwesomeClassname: "logos:mysql"
+				},
+				{
+					skillName: "Tailwind CSS",
+					fontAwesomeClassname: "vscode-icons:file-type-tailwind"
+				},
+				{
+					skillName: "Firebase",
+					fontAwesomeClassname: "vscode-icons:file-type-firebase"
+				},
+				{
 					skillName: "NPM",
 					fontAwesomeClassname: "logos:npm-icon",
 				},
@@ -82,15 +110,15 @@ export const skillsSection = {
 export const SkillBars = [
 	{
 		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "55", //Insert relative proficiency in percentage
+		progressPercentage: "75", //Insert relative proficiency in percentage
 	},
 	{
 		Stack: "Backend",
-		progressPercentage: "50",
+		progressPercentage: "65",
 	},
 	{
 		Stack: "Programming",
-		progressPercentage: "50",
+		progressPercentage: "70",
 	},
 ];
 
