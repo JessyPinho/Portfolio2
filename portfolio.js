@@ -145,6 +145,27 @@ export const educationInfo = [
 	}
 ];
 
+export const experience = [
+	{
+		role: "Web/Mobile Developer",
+		company: "Seedext",
+		companylogo: "/img/icons/common/Seedext.png",
+		date: "July 2022 – January 2023",
+		desc: "Created several versions of the app over time, latest version in progress in React JS and Firebase, \
+		developed the entire app back-end to front-end with another intern for a few months. \
+		Previous Techs: Tailwind CSS, Flutter/Flutter Flow",
+	},
+	{
+		role: "Frontend Developer",
+		company: "Planzone",
+		companylogo: "/img/icons/common/planzone.png",
+		date: "May 2023 – January 2024",
+		desc: "Advanced learning of Typescript and React JS, \
+		 as well as front-end integration of data or models. Creating or improving components in React. \
+		 Creation of the mobile version of Planzone in React Native.",
+	},
+];
+
 export const projects = [
 	{
 		name: "Mentor Goal",
@@ -159,7 +180,7 @@ export const projects = [
 	{
 		name: "Portfolio",
 		desc: "Creation of My Portfolio using Next and React.js adjusted for myself and my ongoing projects",
-		github: "https://github.com/JessyPinho/Portfolio",
+		github: "https://github.com/JessyPinho/Portfolio2",
 	},
 ];
 

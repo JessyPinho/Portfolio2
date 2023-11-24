@@ -41,6 +41,7 @@ export default function Home({ githubProfileData }) {
 			<Skills />
 			<Proficiency />
 			<Education />
+			<Experience />
 			<Projects />
 			<ProjectsWIP />
 			<GithubProfileCard prof={githubProfileData} />
