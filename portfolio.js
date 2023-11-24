@@ -6,7 +6,7 @@ export const greetings = {
 	description:
 		"I'm a passionate Full Stack web developer having an experience of web applications with React, PHP, HTML/CSS, Javascript, APIs with Laravel and mobile applications with React Native and Flutter",
 	resumeLink:
-		"https://drive.google.com/file/d/1bcXqGkZwGNIjSvanw-EostWpzXO4oSh9/view?usp=sharing",
+		"https://drive.google.com/file/d/1MgaFPTfRpO2XNjgeAsg8zazorrtllNfP/view?usp=sharing",
 };
 
 export const openSource = {
@@ -27,7 +27,7 @@ export const skillsSection = {
 	data: [
 		{
 			title: "Full Stack Development",
-			lottieAnimationFile: "/lottie/skills/fullstack.json", // Path of Lottie Animation JSON File
+			lottieAnimationFile: "/lottie/skills/fullstack.json",
 			skills: [
 				emoji(
 					"⚡ Building responsive mobile applications in React Native or Flutter"
@@ -47,8 +47,16 @@ export const skillsSection = {
 					fontAwesomeClassname: "vscode-icons:file-type-css",
 				},
 				{
+					skillName: "Sass",
+					fontAwesomeClassname: "logos:sass",
+				},
+				{
 					skillName: "JavaScript",
 					fontAwesomeClassname: "logos:javascript",
+				},
+				{
+					skillName: "TypeScript",
+					fontAwesomeClassname: "logos:typescript-icon",
 				},
 				{
 					skillName: "Python",
@@ -109,8 +117,8 @@ export const skillsSection = {
 
 export const SkillBars = [
 	{
-		Stack: "Frontend/Design", //Insert stack or technology you have experience in
-		progressPercentage: "75", //Insert relative proficiency in percentage
+		Stack: "Frontend/Design",
+		progressPercentage: "75",
 	},
 	{
 		Stack: "Backend",
@@ -127,7 +135,7 @@ export const educationInfo = [
 		schoolName: "ETNA",
 		subHeader: "Master in web programming",
 		duration: "September 2021 - January 2025",
-		desc: "Preparatory year in web programming (Bac +2) still running, learning many computer languages on the way (HTML/CSS, C, Javascript, React Native, Python, ...",
+		desc: "Bachelor year in web programming (Bac +2 > +3) still running (M1 in late January), doing many projects and still learning new languages and frameworks",
 	},
 	{
 		schoolName: "Lycée Pierre Gilles de Gennes",
